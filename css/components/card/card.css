@@ -1,0 +1,32 @@
+
+
+
+.card-product{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 350px;
+  padding: 5px;
+  border: grey 1px solid;
+  box-shadow: 5px 10px 0;
+  background-color: white;
+  margin-bottom: 20px;
+  position: relative;
+
+}
+
+.card-product h2{
+  text-align: center;
+}
+
+svg{
+  height: 200px;
+  width: 200px;
+  margin-right: 10px;
+}
+
+
+
+
+
+

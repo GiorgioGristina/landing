@@ -1,0 +1,22 @@
+.banner{
+  height: 400px;
+  object-fit: cover;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  position: relative;
+}
+
+.banner-text h1,
+.banner-text p{
+  margin-bottom: 50px;
+}
+
+
+
+
+
+
+
